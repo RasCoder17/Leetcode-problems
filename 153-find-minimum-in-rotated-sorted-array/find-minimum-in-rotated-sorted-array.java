@@ -11,7 +11,7 @@ class Solution {
             }
             else
             {
-                n1 = m + 1;
+                n1 = m+1;
             }
         }
         return nums[n1];
